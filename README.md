@@ -19,8 +19,8 @@ compulsive researcher.
 ## Skills and Tools
 
 - Programming Languages: Python ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-- Data Visualization: Matplotlib ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg), Seaborn ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg), Tableau ![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tableau_Logo.png)
-- Machine Learning: Scikit-Learn ![Scikit-Learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-- Databases: SQLite ![SQLite Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg), PostgreSQL ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-- ERD Modeling: DBML ![DBML Logo](https://www.dbml.org/img/dbml-owl.svg)
+- Data Visualization: ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg) ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-small-lightbg.svg) ![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Tableau_Logo.png)
+- Machine Learning: ![Scikit-Learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+- Databases: ![SQLite Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg) ![PostgreSQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+- ERD Modeling: ![DBML Logo](https://www.dbml.org/img/dbml-owl-small.svg)
 - Deep Learning (In Progress)
