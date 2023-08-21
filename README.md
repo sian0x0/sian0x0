@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:769FCA,100:FF6C65&height=250&section=header&text=siân%20bradley&fontColor=FFFFFF&desc=DATA&fontSize=90&descAlignY=70&descAlign=70)
 
-## About Me
-
 Using data to get socially beneficial insights and nerdy satisfaction.
 
 ## Current projects
