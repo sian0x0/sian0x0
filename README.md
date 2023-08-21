@@ -2,16 +2,19 @@
 
 ## About Me
 
-Aspiring data scientist with a passion for using data to get socially beneficial insights.
+Using data to get socially beneficial insights and nerdy satisfaction.
 
 ## Current projects
-- Data engineer bootcamp at [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
+
+- [Song Clustering](https://github.com/sian0x0/Roud-Song-Clusters) using lyrics of traditional songs and comparing to the [Roud number](https://en.wikipedia.org/wiki/Roud_Folk_Song_Index)
 - [@CS50](https://github.com/cs50)x Introduction to Computer Science from Hardvard University
 - [End Station Finder](https://github.com/sian0x0/End-Station), a small personal project just for fun, driven by my interest in public transport networks and facilitated by my newfound skills
 
 ## Experience
 
-Background in collectives, co-ops and grassroots self-organisation. Work in accessibility means I know the importance of presenting information efficiently and clearly. 
+- Data engineer bootcamp at [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
+- Various experience in collectives, co-ops and grassroots self-organisation
+- Background in accessibility means I know the importance of presenting information efficiently and clearly
 
 ## Interests
 
