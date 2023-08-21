@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:189AFA,100:FF6C50&height=160&section=header&text=si%C3%A2n%20bradley&fontColor=FFFFFF&desc=DATA&fontSize=90&descAlignY=75&descAlign=70)
 
-Using data to get socially beneficial insights and nerdy satisfaction.
-
 ### Current projects
 
 - [Song Clustering](https://github.com/sian0x0/Roud-Song-Clusters) using lyrics of traditional songs and comparing to the [Roud number](https://en.wikipedia.org/wiki/Roud_Folk_Song_Index)
