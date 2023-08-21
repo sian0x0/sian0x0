@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:769FCA,100:FF6C65&height=250&section=header&text=siân%20bradley&fontColor=FFFFFF&desc=DATA&fontSize=90&descAlignY=70&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:189AFA,100:FF6C50&height=160&section=header&text=si%C3%A2n%20bradley&fontColor=FFFFFF&desc=DATA&fontSize=90&descAlignY=75&descAlign=70)
 
 Using data to get socially beneficial insights and nerdy satisfaction.
 
