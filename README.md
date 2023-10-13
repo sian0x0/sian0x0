@@ -2,20 +2,19 @@
 
 ### Current projects
 
-- [Song Clustering](https://github.com/sian0x0/Roud-Song-Clusters) using lyrics of traditional songs and comparing to the [Roud number](https://en.wikipedia.org/wiki/Roud_Folk_Song_Index)
+- [Song Clustering](https://github.com/sian0x0/Roud-Song-Clusters): modelling the lyrics of traditional songs to predict the [Roud Index number](https://en.wikipedia.org/wiki/Roud_Folk_Song_Index) of user-input text
 - [@CS50](https://github.com/cs50)x *Introduction to Computer Science* from Hardvard University
 - [End Station Finder](https://github.com/sian0x0/End-Station), a small personal project, just for fun, driven by my interest in public transport networks
 
 ### Experience
 
-- Data engineer bootcamp at [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
+- Data Engineer full-time bootcamp at [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
 - Various experience in collectives, co-ops and grassroots self-organisation
-- Background in accessibility means I know the importance of presenting information efficiently and clearly
+- Worked for many years in the presentation of text and other information to increase accessibility
 
 ### Interests
 
-Georeferencing old maps, genealogy, producing electronic music, editing Wikipedia.
-Compulsive researcher of everything from urban history to product specs.
+Georeferencing old maps, genealogy, producing electronic music, editing Wikipedia. Lover of antique data. Compulsive researcher of everything from urban history to product specs.
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
