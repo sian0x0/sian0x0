@@ -2,19 +2,20 @@
 
 ### Current projects
 
-- [Song Clustering](https://github.com/sian0x0/Roud-Song-Clusters): modelling the lyrics of traditional songs to predict the [Roud Index number](https://en.wikipedia.org/wiki/Roud_Folk_Song_Index) of user-input text
-- [End Station Finder](https://github.com/sian0x0/End-Station), a small personal project using GTFS data to explore the public transport network, just for fun
-
-Courses:
-- [@CS50](https://github.com/cs50)x *Introduction to Computer Science* - Hardvard University
-- [LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/) *Introduction to Linux* - Linux Foundation
+- 🧭 [Map Extinct Streets](https://github.com/sian0x0/Map-Extinct-Addresses): wrangle text to data to network to coordinates to map, to visualise streets in historic working-class areas that were not mapped before they were demolished, but exist in street directories
+- 🗃️ [Song Clustering](https://github.com/sian0x0/Roud-Song-Clusters): embedding and modelling the lyrics of traditional songs to predict the archival [Roud Index number](https://en.wikipedia.org/wiki/Roud_Folk_Song_Index) 
+- 🚏 [End Station Finder](https://github.com/sian0x0/End-Station): a small public transport network exploration project to get to grips with GTFS data
 
 ### Experience
 
-- Data Engineer full-time bootcamp at [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
+- Data Engineer full-time workplace-simlumation bootcamp at [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
 - Master's degree in intersectionality. Undergraduate studies in languages, linguistics and social sciences
 - Background in collectives, co-ops, and grassroots self-organisation
 - Background in accessibility work, with focus on the modification and clear presentation of information
+  
+Courses:
+- [@CS50](https://github.com/cs50)x *Introduction to Computer Science* - Hardvard University
+- [LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/) *Introduction to Linux* - Linux Foundation
 
 ### Interests
 
