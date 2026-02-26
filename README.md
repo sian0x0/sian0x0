@@ -15,7 +15,8 @@
   
 ### Courses and certs
 - Python Essentials - Python Institute
-- Linux Essentials - Cisco Networking Academy ([see badge](https://www.credly.com/badges/4d441e0c-be8e-4cb5-90be-f0c4e6495ee9))
+- Linux Essentials - Linux Professional Institute ([see badge](https://www.credly.com/badges/4d441e0c-be8e-4cb5-90be-f0c4e6495ee9))
+- JavaScript Essentials 2 - JS Institute ([see badge](https://www.credly.com/badges/70fab394-0444-49e3-b650-068b21ace8f8/public_url))
 - Data Engineer (five-month full-time bootcamp) - [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin)
 - [@CS50](https://github.com/cs50)x *Introduction to Computer Science* - Hardvard University
 - [LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/) *Introduction to Linux* - Linux Foundation
