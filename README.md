@@ -14,7 +14,8 @@
 - Background in accessibility work, with focus on the modification and clear presentation of information
   
 ### Courses and certs
-- Certified Associate JavaScript Programmer (JSA-41-01) - JS Institute ([badge](https://www.credly.com/badges/70fab394-0444-49e3-b650-068b21ace8f8/public_url))
+
+- Certified Associate JavaScript Programmer (JSA-41-01) - JS Institute ([badge](https://www.credly.com/badges/39d03f8f-d12f-479c-9518-a15cdd2ec8b1/public_url))
 - Python Essentials - Python Institute
 - Data Engineer (five-month full-time bootcamp [@CodeAcademyBerlin](https://github.com/CodeAcademyBerlin))
 - Linux Essentials - Linux Professional Institute ([badge](https://www.credly.com/badges/4d441e0c-be8e-4cb5-90be-f0c4e6495ee9))
@@ -22,6 +23,7 @@
 - [LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/) *Introduction to Linux* - Linux Foundation
 
 ### Interests
+
 Georeferencing old maps, genealogy, producing electronic music, contibuting to Wikipedia and other open data projects.<br>
 Lover of early-internet-era digital data and ephemera. Transportation infrastructure enthusiast.<br>
 Compulsive researcher of everything from urban history to product specs.
